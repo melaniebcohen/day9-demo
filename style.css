@@ -1,0 +1,32 @@
+/* base styles */
+
+body {
+  font-family: helvetica;
+}
+input[type="text"] {
+  border: solid 1px #000;
+  padding: 8px 18px;
+  font-size: 18px;
+}
+button {
+  border: none;
+  border-radius: 3px;
+  background-color: #000;
+  color: #fff;
+  padding: 4px 12px;
+  font-size: 20px;
+  margin: 0px 0px 20px 20px;
+}
+fieldset {
+  padding: 20px;
+}
+table {
+  margin-left: 20px;
+}
+thead {
+  background: #888;
+}
+td, th {
+  padding: 20px;
+  border: solid 1px #000;
+}
